@@ -108,9 +108,6 @@ Luego de analizar todo la información obtenida, nos dimos cuenta de que de las 
 
 Estos son algunos comentarios que hicieron los usuarios en las entrevistas.
 
-También encontramos esta problemática en algunos foro de internet
-
-![example-web](assets/docs/foro-problema-info.png)
 
 
 ##### Día 3 :
